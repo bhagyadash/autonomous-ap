@@ -1,5 +1,7 @@
 # Autonomous AP — Invoice Agent Prototype
 
+**Live demo:** https://autonomous-ap.vercel.app
+
 A working prototype of an AI invoice-processing agent modeled on AppZen's Autonomous AP
 product: extraction, GL coding, entity allocation, and line-item (3-way match) validation,
 with every step narrated in plain language — not a spinner, not a black box.
